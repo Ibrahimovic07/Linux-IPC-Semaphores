@@ -1,6 +1,9 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
+## name : mohammed ibrahim mn
+## roll no : 212223100034
+
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
